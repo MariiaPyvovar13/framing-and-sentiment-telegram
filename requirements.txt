@@ -1,0 +1,36 @@
+# Core data handling
+pandas
+numpy
+openpyxl
+
+# Telegram scraping
+telethon
+
+# Text processing
+nltk
+emoji
+fasttext
+spacy
+
+# Machine learning & NLP
+torch
+transformers
+datasets
+scikit-learn
+
+# Topic modeling
+bertopic
+umap-learn
+hdbscan
+
+# Statistics
+scipy
+statsmodels
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Utilities
+tqdm
