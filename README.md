@@ -10,7 +10,7 @@ This repository contains the code and reproducible workflows for my Master's the
 
 > **Framing Conflict and Shaping Sentiment: Telegram Discourses Around the 2025 Zelensky–Trump Meeting**
 
-## 📖 Overview
+## Overview
 
 The project integrates:
 - **Framing & Propaganda Analysis** — manual coding with a custom scheme
@@ -18,17 +18,12 @@ The project integrates:
 - **Topic Modeling** — BERTopic clustering for thematic structure
 - **Visualization** — figures for pre/post-event framing, sentiment timelines, and topic maps
 
-## 📂 Repository Structure
+## Repository Structure
 - `notebooks/` — step-by-step Jupyter notebooks for data processing, model training, and visualization
-- `src/` — modular Python scripts for re-usable functions
 - `data/` — (optional) raw and processed datasets (add `.gitignore` if sensitive)
-- `outputs/` — generated results and figures
+- `figures/` — generated figures
 
-## 🚀 Reproducibility
+## Reproducibility
 
-Create a virtual environment and install dependencies:
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
+Install dependencies:
 pip install -r requirements.txt
